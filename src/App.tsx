@@ -26,6 +26,7 @@ function App() {
         <Route path="/informativa" element={<Informativa />} />
         <Route path="/original" element={<Original />} />
         <Route path="/usuario" element={<Usuario />} />
+        <Route path="/equipo/:equipo" element={<Equipo />} />
       </Routes>
     </Router>
 
