@@ -60,3 +60,5 @@ function Equipo() {
 }
 
 export default Equipo;
+
+//para commit
